@@ -56,4 +56,6 @@ dependencies {
 //    implementation("androidx.navigation.safeargs.kotlin:androidx.navigation.safeargs.kotlin.gradle.plugin:2.9.5")
 
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4")
+
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.9.4")
 }
